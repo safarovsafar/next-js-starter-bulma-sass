@@ -8,7 +8,7 @@
     "start": "next start",
     "now-build": "next build && next export -o dist"
   },
-  "author": "Jake Varness",
+  "author": "Safarov Safar",
   "license": "MIT",
   "dependencies": {
     "@zeit/next-sass": "^1.0.1",
